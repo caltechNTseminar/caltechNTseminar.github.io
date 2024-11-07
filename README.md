@@ -45,6 +45,13 @@ Anticyclotomic Iwasawa theory for elliptic curves at Eisenstein case was first s
 
 Let G be a complex reductive group. A celebrated theorem of Kazhdan-Lusztig establishes an isomorphism between the extended affine Hecke algebra of G and certain equivariant K-group of the Steinberg variety of the Langlands dual group of G. This isomorphism plays a crucial role in Kazhdan-Lusztig's proof of the Deligen-Langlands conjecture. In the equal characteristic setting, Bezrukavnikov studied the categorification of this isomorphism and proved an equivalence between two geometric realizations of the affine Hecke algebra, which can be seen as the tamely ramified local geometric Langlands correspondence. In mixed characteristics, Bando and Yun-Zhu independently used implicit approaches to derive Bezrukavnikov's equivalence from the equal characteristic setting. In this talk, I will discuss an explicit approach to establish Bezrukavnikov's equivalence building on a previous joint work with Anschütz, Lourenço, and Wu. This talk is based on an ongoing project with Bando, Gleason, and Lourenço.
 
+<a name="nov7"></a>
+### _November 7, Chengyang Bao_
+**Computing crystalline deformation rings via the Taylor-Wiles-Kisin patching method**
+
+A celebrate Crystalline deformation rings play an important role in Kisin's proof of the Fontaine-Mazur conjecture for GL2 in most cases. One crucial step in the proof is to prove the Breuil-Mezard conjecture on the Hilbert-Samuel multiplicity of the special fiber of the crystalline deformation ring. In pursuit of formulating a horizontal version of the Breuil-Mezard conjecture, we develop an algorithm to compute arbitrarily close approximations of crystalline deformation rings. Our approach, based on reverse-engineering the Taylor-Wiles-Kisin patching method, aims to provide detailed insights into these rings and their structural properties, at least conjecturally.
+
+
 ---
 
 <span style="color:gray"> Based on the *simplest-github-page* by  Christopher Allen </span>
