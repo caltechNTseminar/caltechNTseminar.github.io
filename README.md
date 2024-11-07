@@ -51,6 +51,11 @@ Let G be a complex reductive group. A celebrated theorem of Kazhdan-Lusztig esta
 
 A celebrate Crystalline deformation rings play an important role in Kisin's proof of the Fontaine-Mazur conjecture for GL2 in most cases. One crucial step in the proof is to prove the Breuil-Mezard conjecture on the Hilbert-Samuel multiplicity of the special fiber of the crystalline deformation ring. In pursuit of formulating a horizontal version of the Breuil-Mezard conjecture, we develop an algorithm to compute arbitrarily close approximations of crystalline deformation rings. Our approach, based on reverse-engineering the Taylor-Wiles-Kisin patching method, aims to provide detailed insights into these rings and their structural properties, at least conjecturally.
 
+<a name="nov19"></a>
+### _November 19, Shubhodip Mondal_
+**Dieudonné theory via cohomology of classifying stacks**
+
+Classically, Dieudonné theory offers a linear algebraic classification of finite group schemes and p-divisible groups over a perfect field of characteristic p>0. In this talk, I will discuss generalizations of this story from the perspective of p-adic cohomology theory (such as crystalline cohomology, and the newly developed prismatic cohomology due to Bhatt--Scholze) of classifying stacks. Time permitting, I will discuss some applications.
 
 ---
 
