@@ -15,9 +15,9 @@ Titles and abstracts are also available on the [Caltech Calendar](https://pma.ca
 | October 10    | [Mulun Yin](https://www.math.ucsb.edu/people/mulun-yin) (UCSB) | [Anticyclotomic Iwasawa theory for newforms at Eisenstein primes](#oct10) |
 | October 17    | [Liyang Yang](https://lyliyangyang.github.io/) (Princeton) | [Relative Trace Formula and Uniform Non-vanishing of Hilbert Modular L-values](#oct17) |
 | October 31    | [Jize Yu](https://sites.google.com/view/jize-yu-math/home?authuser=0) (Rice) | [Towards an explicit Bezrukavnikov’s equivalence in mixed characteristic](#oct31) |
-| November 7    | [Chengyang Bao](https://math.uchicago.edu/~c.y.bao/) (UCLA) | TBD |
-| November 14   | [Lea Beneish](https://sites.google.com/view/lea-beneish/home) (UNT) | TBD |
-| November 21   | [Shubhodip Mondal](https://personal.math.ubc.ca/~smondal/)  (UBC) | TBD |
+| November 7    | [Chengyang Bao](https://math.uchicago.edu/~c.y.bao/) (UCLA) | [Computing crystalline deformation rings via the Taylor-Wiles-Kisin patching method](#nov7) |
+| November 14   | [Lea Beneish](https://sites.google.com/view/lea-beneish/home) (UNT) | [Degree $d$ points on curves](#nov14) |
+| November 19   | [Shubhodip Mondal](https://personal.math.ubc.ca/~smondal/)  (UBC) | [Dieudonné theory via cohomology of classifying stacks](#nov19) |
 | December 5    | [Peter Xu](https://www.math.ucla.edu/people/visiting/peterx)  (UCLA) | TBD |
 | January 9     | TBD | TBD |
 | January 16    | TBD | TBD |
@@ -50,6 +50,13 @@ Let G be a complex reductive group. A celebrated theorem of Kazhdan-Lusztig esta
 **Computing crystalline deformation rings via the Taylor-Wiles-Kisin patching method**
 
 A celebrate Crystalline deformation rings play an important role in Kisin's proof of the Fontaine-Mazur conjecture for GL2 in most cases. One crucial step in the proof is to prove the Breuil-Mezard conjecture on the Hilbert-Samuel multiplicity of the special fiber of the crystalline deformation ring. In pursuit of formulating a horizontal version of the Breuil-Mezard conjecture, we develop an algorithm to compute arbitrarily close approximations of crystalline deformation rings. Our approach, based on reverse-engineering the Taylor-Wiles-Kisin patching method, aims to provide detailed insights into these rings and their structural properties, at least conjecturally.
+
+<a name="nov14"></a>
+### _November 14, Lea Beneish_
+**Degree $d$ points on curves**
+
+Given a plane curve $C$ defined over $\mathbb{Q}$, when the genus of the curve is greater than one, Faltings' theorem tells us that the set of rational points on the curve is finite. It is then natural to consider higher degree points, that is, points on this curve defined over fields of degree $d$ over $\mathbb{Q}$. We ask for which natural numbers $d$ are there points on the curve in a field of degree $d$. For positive proportions of certain families of curves, we give results about which degrees of points do not occur. This talk is based on joint work with Andrew Granville.
+
 
 <a name="nov19"></a>
 ### _November 19, Shubhodip Mondal_
