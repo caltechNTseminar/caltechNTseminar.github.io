@@ -18,9 +18,10 @@ Titles and abstracts are also available on the [Caltech Calendar](https://pma.ca
 | November 7    | [Chengyang Bao](https://math.uchicago.edu/~c.y.bao/) (UCLA) | [Computing crystalline deformation rings via the Taylor-Wiles-Kisin patching method](#nov7) |
 | November 14   | [Lea Beneish](https://sites.google.com/view/lea-beneish/home) (UNT) | [Degree $d$ points on curves](#nov14) |
 | November 19   | [Shubhodip Mondal](https://personal.math.ubc.ca/~smondal/)  (UBC) | [Dieudonné theory via cohomology of classifying stacks](#nov19) |
-| December 5    | [Peter Xu](https://www.math.ucla.edu/people/visiting/peterx)  (UCLA) | TBD |
-| January 9     | TBD | TBD |
-| January 16    | TBD | TBD |
+| December 5    | [Peter Xu](https://www.math.ucla.edu/people/visiting/peterx)  (UCLA) | Cancelled |
+| January 9     | [Chris Lyons](https://www.fullerton.edu/math/faculty/clyons/)  (CSUF) | TBD |
+| January 16    |  [Yunqing Tang](https://math.dartmouth.edu/~stayou/](https://math.berkeley.edu/~ytang/) (Caltech)  | TBD |
+| January 23    |  [Salim Tayou](https://math.dartmouth.edu/~stayou/) (Dartmouth) | TBD |
 | ...           | ... | ... |
 
 ---
