@@ -20,8 +20,12 @@ Titles and abstracts are also available on the [Caltech Calendar](https://pma.ca
 | November 19   | [Shubhodip Mondal](https://personal.math.ubc.ca/~smondal/)  (UBC) | [Dieudonné theory via cohomology of classifying stacks](#nov19) |
 | December 5    | [Peter Xu](https://www.math.ucla.edu/people/visiting/peterx)  (UCLA) | Cancelled |
 | January 9     | [Chris Lyons](https://www.fullerton.edu/math/faculty/clyons/)  (CSUF) | TBD |
-| January 16    |  [Yunqing Tang](https://math.dartmouth.edu/~stayou/](https://math.berkeley.edu/~ytang/) (Caltech)  | TBD |
-| January 23    |  [Salim Tayou](https://math.dartmouth.edu/~stayou/) (Dartmouth) | TBD |
+| January 16    | [Yunqing Tang](https://math.dartmouth.edu/~stayou/](https://math.berkeley.edu/~ytang/) (Caltech)  | TBD |
+| January 23    | [Salim Tayou](https://math.dartmouth.edu/~stayou/) (Dartmouth) | TBD |
+| January 30    | [Mingjia Zhang](https://www.ias.edu/scholars/mingjia-zhang) (IAS) | TBD |
+| February 20   | [Tejasi Bhatnagar](https://sites.google.com/view/tbhatnagar/home?authuser=0) (UW-Madison) | TBD |
+| March 13      | [Christian Klevdal](https://sites.google.com/view/christianklevdal/home) (UCSD) | TBD |
+
 | ...           | ... | ... |
 
 ---
