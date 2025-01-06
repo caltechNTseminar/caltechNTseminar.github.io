@@ -19,8 +19,8 @@ Titles and abstracts are also available on the [Caltech Calendar](https://pma.ca
 | November 14   | [Lea Beneish](https://sites.google.com/view/lea-beneish/home) (UNT) | [Degree $d$ points on curves](#nov14) |
 | November 19   | [Shubhodip Mondal](https://personal.math.ubc.ca/~smondal/)  (UBC) | [Dieudonné theory via cohomology of classifying stacks](#nov19) |
 | December 5    | [Peter Xu](https://www.math.ucla.edu/people/visiting/peterx)  (UCLA) | Cancelled |
-| January 9     | [Chris Lyons](https://www.fullerton.edu/math/faculty/clyons/)  (CSUF) | TBD |
-| January 16    | [Yunqing Tang](https://math.dartmouth.edu/~stayou/](https://math.berkeley.edu/~ytang/) (Caltech)  | TBD |
+| January 9     | [Chris Lyons](https://www.fullerton.edu/math/faculty/clyons/)  (CSUF) | [Diophantine problems arising from tetrahedra](#jan9) |
+| January 16    | [Yunqing Tang](https://math.berkeley.edu/~ytang/) (Caltech)  | TBD |
 | January 23    | [Salim Tayou](https://math.dartmouth.edu/~stayou/) (Dartmouth) | TBD |
 | January 30    | [Mingjia Zhang](https://www.ias.edu/scholars/mingjia-zhang) (IAS) | TBD |
 | February 20   | [Tejasi Bhatnagar](https://sites.google.com/view/tbhatnagar/home?authuser=0) (UW-Madison) | TBD |
@@ -68,6 +68,13 @@ Given a plane curve $C$ defined over $\mathbb{Q}$, when the genus of the curve i
 **Dieudonné theory via cohomology of classifying stacks**
 
 Classically, Dieudonné theory offers a linear algebraic classification of finite group schemes and p-divisible groups over a perfect field of characteristic p>0. In this talk, I will discuss generalizations of this story from the perspective of p-adic cohomology theory (such as crystalline cohomology, and the newly developed prismatic cohomology due to Bhatt--Scholze) of classifying stacks. Time permitting, I will discuss some applications.
+
+<a name="jan9"></a>
+### _January 9, Chris Lyons_
+**Diophantine problems arising from tetrahedra**
+
+From the humble right triangle stem two rich, classical Diophantine problems: Pythagorean triples and the Congruent Number Problem. Both of these involve the study of rational points on algebraic curves. I'll discuss a higher-dimensional version of these problems leading to certain algebraic surfaces and their rational points. This is joint work with Dinakar Ramakrishnan.
+
 
 ---
 
