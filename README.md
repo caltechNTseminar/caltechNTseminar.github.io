@@ -19,7 +19,6 @@ Titles and abstracts are also available on the [Caltech Calendar](https://pma.ca
 | November 14   | [Lea Beneish](https://sites.google.com/view/lea-beneish/home) (UNT) | [Degree $d$ points on curves](#nov14) |
 | November 19   | [Shubhodip Mondal](https://personal.math.ubc.ca/~smondal/)  (UBC) | [Dieudonné theory via cohomology of classifying stacks](#nov19) |
 | December 5    | [Peter Xu](https://www.math.ucla.edu/people/visiting/peterx)  (UCLA) | Cancelled |
-| January 9     | [Chris Lyons](https://www.fullerton.edu/math/faculty/clyons/)  (CSUF) | [Diophantine problems arising from tetrahedra](#jan9) |
 | January 16    | [Yunqing Tang](https://math.berkeley.edu/~ytang/) (Caltech)  | TBD |
 | January 23    | [Salim Tayou](https://math.dartmouth.edu/~stayou/) (Dartmouth) | TBD |
 | January 30    | [Ziyang Gao](https://ziyangjeremygao.github.io) (UCLA) | TBD |
@@ -27,7 +26,16 @@ Titles and abstracts are also available on the [Caltech Calendar](https://pma.ca
 | February 20   | [Tejasi Bhatnagar](https://sites.google.com/view/tbhatnagar/home?authuser=0) (UW-Madison) | TBD | 
 | March 6       | [Yifeng Huang](https://yifeng-huang-math.github.io) (USC) | TBD |
 | March 13      | [Christian Klevdal](https://sites.google.com/view/christianklevdal/home) (UCSD) | TBD |
-
+| April 10      | [Alex Cowan](https://yifeng-huang-math.github.io) (UWaterloo) | TBD |
+| April 17      | [Mladen Dimitrov](https://gitlabpages.univ-lille.fr/dimitrov/) (Université de Lille) | TBD |
+| April 24      | [Jackson Morrow](https://sites.google.com/site/jacksonsalvatoremorrow/) (UNT) | TBD |
+| May 1         | [TBD]() (USC) | TBD |
+| May 8         | [TBD]() (USC) | TBD |
+| May 15        | [Robin Zhang](https://math.mit.edu/~robinz/) (MIT) | TBD |
+| May 22        | [Chris Lyons](https://www.fullerton.edu/math/faculty/clyons/)  (CSUF) | [Diophantine problems arising from tetrahedra](#may22) |
+| May 29        | [TBD]() (USC) | TBD |
+| June 5        | [Ananth Shankar](https://sites.google.com/view/ashankar/home?authuser=0) (Northwestern) | TBD |
+| June 12       | [Ashay Burungale](https://sites.google.com/view/ashayk/home) (UT-Austin) | TBD |
 | ...           | ... | ... |
 
 ---
@@ -71,7 +79,7 @@ Given a plane curve $C$ defined over $\mathbb{Q}$, when the genus of the curve i
 
 Classically, Dieudonné theory offers a linear algebraic classification of finite group schemes and p-divisible groups over a perfect field of characteristic p>0. In this talk, I will discuss generalizations of this story from the perspective of p-adic cohomology theory (such as crystalline cohomology, and the newly developed prismatic cohomology due to Bhatt--Scholze) of classifying stacks. Time permitting, I will discuss some applications.
 
-<a name="jan9"></a>
+<a name="may22"></a>
 ### _January 9, Chris Lyons_
 **Diophantine problems arising from tetrahedra**
 
