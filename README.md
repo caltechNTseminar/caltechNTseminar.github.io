@@ -29,11 +29,11 @@ Titles and abstracts are also available on the [Caltech Calendar](https://pma.ca
 | April 10      | [Alex Cowan](https://yifeng-huang-math.github.io) (UWaterloo) | TBD |
 | April 17      | [Mladen Dimitrov](https://gitlabpages.univ-lille.fr/dimitrov/) (Université de Lille) | TBD |
 | April 24      | [Jackson Morrow](https://sites.google.com/site/jacksonsalvatoremorrow/) (UNT) | TBD |
-| May 1         | [TBD]() (USC) | TBD |
-| May 8         | [TBD]() (USC) | TBD |
+| May 1         | [TBD]() () | TBD |
+| May 8         | [TBD]() () | TBD |
 | May 15        | [Robin Zhang](https://math.mit.edu/~robinz/) (MIT) | TBD |
 | May 22        | [Chris Lyons](https://www.fullerton.edu/math/faculty/clyons/)  (CSUF) | [Diophantine problems arising from tetrahedra](#may22) |
-| May 29        | [TBD]() (USC) | TBD |
+| May 29        | [TBD]() () | TBD |
 | June 5        | [Ananth Shankar](https://sites.google.com/view/ashankar/home?authuser=0) (Northwestern) | TBD |
 | June 12       | [Ashay Burungale](https://sites.google.com/view/ashayk/home) (UT-Austin) | TBD |
 | ...           | ... | ... |
