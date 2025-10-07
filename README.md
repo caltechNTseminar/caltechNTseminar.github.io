@@ -23,7 +23,7 @@ Nov 13 Kimball
 | November 13   | [Kimball Martin](https://math.uchicago.edu/~c.y.bao/) (University of Oklahoma and Osaka Metropolitan University.) | TBD |
 | November 20   | [Vacant]()  () | TBD |
 | December 4    | [Claus Sorensen](https://sites.google.com/view/csorensen)  (UCSD) | TBD |
-| December 11    |[Alex Blumenthal]((https://ablumenthal6.math.gatech.edu)) (Georgia Tech) | TBD |
+| December 11    |[Alex Blumenthal](https://ablumenthal6.math.gatech.edu) (Georgia Tech) | TBD |
 
 | ...           | ... | ... |
 
