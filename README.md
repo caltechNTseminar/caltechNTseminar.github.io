@@ -1,70 +1,65 @@
-# <span style="color:orange">Caltech Number Theory Seminar</span> Fall 2024 - Spring 2025
+# <span style="color:orange">Caltech Number Theory Seminar</span> Fall 2025 - Spring 2026
 
-This is the website for the Caltech Number Theory Seminar organized Matthias Flach, Yu Fu, Elena Mantovan, and Roy Zhao (on leave).
+This is the website for the Caltech Number Theory Seminar organized Matthias Flach, Yu Fu, Elena Mantovan, Liyang Yang.
 This webpage is maintained by Yu Fu.
 
 The seminar is scheduled to meet at <span style="color:orange">4:00-5:00 PM on Thursdays in 387 Linde Hall</span>
 
 Titles and abstracts are also available on the [Caltech Calendar](https://pma.caltech.edu/calendar/week)
 
+[Fall 2024 - Spring 2025](README24-25.md)
+
+
+Nov 13 Kimball
 ## Schedule
 
 | Date          | Speaker           | Topic |
 | ----          | -------           | ----- |
-| October 3     | _No speaker_      |       |
-| October 10    | [Mulun Yin](https://www.math.ucsb.edu/people/mulun-yin) (UCSB) | [Anticyclotomic Iwasawa theory for newforms at Eisenstein primes](#oct10) |
-| October 17    | [Liyang Yang](https://lyliyangyang.github.io/) (Princeton) | [Relative Trace Formula and Uniform Non-vanishing of Hilbert Modular L-values](#oct17) |
-| October 31    | [Jize Yu](https://sites.google.com/view/jize-yu-math/home?authuser=0) (Rice) | [Towards an explicit Bezrukavnikov’s equivalence in mixed characteristic](#oct31) |
+| October 2     | [Qiao He]([https://www.math.columbia.edu/~qiaohe/] (Columbia University) | [Intersection of Hecke correspondences and a general conjecture](#oct2)   |       |
+| October 9    |  [Liubomir Chiriac](https://web.pdx.edu/~chiriac/) (Portland State University) | [Arithmetic aspects of Hecke traces](#oct9) |
+| October 16    | [Aaron Landesman](https://people.math.harvard.edu/~landesman/) (Harvard) | [Malle's conjecture over function fields](#oct16) |
+| October 31    | [Katharine (Katy) Woo]([https://web.math.princeton.edu/~khwoo/] (Stanford University) | TBD |
 | November 7    | [Chengyang Bao](https://math.uchicago.edu/~c.y.bao/) (UCLA) | [Computing crystalline deformation rings via the Taylor-Wiles-Kisin patching method](#nov7) |
 | November 14   | [Lea Beneish](https://sites.google.com/view/lea-beneish/home) (UNT) | [Degree $d$ points on curves](#nov14) |
 | November 19   | [Shubhodip Mondal](https://personal.math.ubc.ca/~smondal/)  (UBC) | [Dieudonné theory via cohomology of classifying stacks](#nov19) |
 | December 5    | [Peter Xu](https://www.math.ucla.edu/people/visiting/peterx)  (UCLA) | Cancelled |
-| January 16    | [Yunqing Tang](https://math.berkeley.edu/~ytang/) (Caltech)  | TBD |
-| January 23    | [Salim Tayou](https://math.dartmouth.edu/~stayou/) (Dartmouth) | TBD |
-| January 30    | [Ziyang Gao](https://ziyangjeremygao.github.io) (UCLA) | TBD |
-| February 13   | [Peter Xu](https://www.math.ucla.edu/people/visiting/peterx) (UCLA) | TBD |
-| February 20   | [Tejasi Bhatnagar](https://sites.google.com/view/tbhatnagar/home?authuser=0) (UW-Madison) | TBD | 
-| March 6       | [Yifeng Huang](https://yifeng-huang-math.github.io) (USC) | TBD |
-| March 13      | [Christian Klevdal](https://sites.google.com/view/christianklevdal/home) (UCSD) | TBD |
-| April 10      | [Alex Cowan](https://yifeng-huang-math.github.io) (UWaterloo) | TBD |
-| April 17      | [Mladen Dimitrov](https://gitlabpages.univ-lille.fr/dimitrov/) (Université de Lille) | TBD |
-| April 24      | [Jackson Morrow](https://sites.google.com/site/jacksonsalvatoremorrow/) (UNT) | TBD |
-| May 1         | [TBD]() () | TBD |
-| May 8         | [TBD]() () | TBD |
-| May 15        | [Robin Zhang](https://math.mit.edu/~robinz/) (MIT) | TBD |
-| May 22        | [Chris Lyons](https://www.fullerton.edu/math/faculty/clyons/)  (CSUF) | [Diophantine problems arising from tetrahedra](#may22) |
-| May 29        | [TBD]() () | TBD |
-| June 5        | [Ananth Shankar](https://sites.google.com/view/ashankar/home?authuser=0) (Northwestern) | TBD |
-| June 12       | [Ashay Burungale](https://sites.google.com/view/ashayk/home) (UT-Austin) | TBD |
+
 | ...           | ... | ... |
 
 ---
 
 ## Abstracts
 
-<a name="oct10"></a>
-### _October 10, Mulun Yin_
-**Anticyclotomic Iwasawa theory for newforms at Eisenstein primes**
+<a name="oct2"></a>
+### _October 2, Qiao He_
+**Intersection of Hecke correspondences and a general conjecture**
 
-Anticyclotomic Iwasawa theory for elliptic curves at Eisenstein case was first studied in the recent work of Castella--Grossi--Lee--Skinner. We will talk about generalizations of their results to newforms of arbitrary weights, meanwhile removing their techinical assumptions. Using Hida arguments, one could also deduce weight 2 results for multiplicative reduction. The applications include new cases of p-part BSD formula, p-converse theorems and improvements in arithmetic statistics. This is joint work with Timo Keller.
+A classical and beautiful result of Gross-Keating relates the intersection of three Hecke correspondences on the integral model of $X_0(1)\times X_0(1)$ with derivative of certain Eisenstein series. Such result can be regarded as an example of arithmetic Siegel-Weil formula and can serve as an ingredient for an arithmetic Gan-Gross-Prasad formula. In this talk, we consider a variant of this formula for the self-product of $X_0(N)$ where $N$ is square-free and the self-product of Shimura curves respectively. Moreover, we explain how these results confirm a general conjecture for GSpin Shimura varieties with vertex levels. This is joint work with Baiqing Zhu.
 
-<a name="oct17"></a>
-### _October 17, Liyang Yang_
-**Relative Trace Formula and Uniform Non-vanishing of Hilbert Modular L-values**
 
-Anticyclotomic Iwasawa theory for elliptic curves at Eisenstein case was first studied in the recent work of Castella--Grossi--Lee--Skinner. We will talk about generalizations of their results to newforms of arbitrary weights, meanwhile removing their techinical assumptions. Using Hida arguments, one could also deduce weight 2 results for multiplicative reduction. The applications include new cases of p-part BSD formula, p-converse theorems and improvements in arithmetic statistics. This is joint work with Timo Keller.
+<a name="oct9"></a>
+### _October 9, Liubomir Chiriac_
+**Arithmetic aspects of Hecke traces**
+
+ We use a recent implication of Maeda’s Conjecture to motivate several lines of inquiry into the behavior of traces of Hecke operators. Special focus is placed on uniqueness questions and Lehmer-type problems. To support these investigations, we discuss computational techniques drawn from p-adic analysis and Diophantine approximation. These methods aim to provide both conceptual insights and practical tools for further exploration.
+
 
 <a name="oct31"></a>
-### _October 31, Jize Yu_
-**Towards an explicit Bezrukavnikov’s equivalence in mixed characteristic**
+### _October 16, Aaron Landesman_
+**Malle's conjecture over function fields**
 
-Let G be a complex reductive group. A celebrated theorem of Kazhdan-Lusztig establishes an isomorphism between the extended affine Hecke algebra of G and certain equivariant K-group of the Steinberg variety of the Langlands dual group of G. This isomorphism plays a crucial role in Kazhdan-Lusztig's proof of the Deligen-Langlands conjecture. In the equal characteristic setting, Bezrukavnikov studied the categorification of this isomorphism and proved an equivalence between two geometric realizations of the affine Hecke algebra, which can be seen as the tamely ramified local geometric Langlands correspondence. In mixed characteristics, Bando and Yun-Zhu independently used implicit approaches to derive Bezrukavnikov's equivalence from the equal characteristic setting. In this talk, I will discuss an explicit approach to establish Bezrukavnikov's equivalence building on a previous joint work with Anschütz, Lourenço, and Wu. This talk is based on an ongoing project with Bando, Gleason, and Lourenço.
+For $G$ a finite group, Malle's conjecture predicts the asymptotic growth of the
+number of $G$ extensions of a fixed global field. In joint work with Ishan Levy,
+we compute the asymptotic growth of the number of Galois $G$ extensions of
+$\mathbb F_q(t)$, for $q$ sufficiently large and relatively prime to $|G|$.
+Time permitting, we may also mention an extension of these methods toward
+verifying the Poonen-Rains conjectures about average sizes of Selmer groups of
+elliptic curves in quadratic twist families.
 
 <a name="nov7"></a>
-### _November 7, Chengyang Bao_
-**Computing crystalline deformation rings via the Taylor-Wiles-Kisin patching method**
+### _November 23, Katharine (Katy) Woo_
+**TBD**
 
-A celebrate Crystalline deformation rings play an important role in Kisin's proof of the Fontaine-Mazur conjecture for GL2 in most cases. One crucial step in the proof is to prove the Breuil-Mezard conjecture on the Hilbert-Samuel multiplicity of the special fiber of the crystalline deformation ring. In pursuit of formulating a horizontal version of the Breuil-Mezard conjecture, we develop an algorithm to compute arbitrarily close approximations of crystalline deformation rings. Our approach, based on reverse-engineering the Taylor-Wiles-Kisin patching method, aims to provide detailed insights into these rings and their structural properties, at least conjecturally.
 
 <a name="nov14"></a>
 ### _November 14, Lea Beneish_
