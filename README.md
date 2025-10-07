@@ -15,14 +15,15 @@ Nov 13 Kimball
 
 | Date          | Speaker           | Topic |
 | ----          | -------           | ----- |
-| October 2     | [Qiao He]([https://www.math.columbia.edu/~qiaohe/] (Columbia University) | [Intersection of Hecke correspondences and a general conjecture](#oct2)   |       |
-| October 9    |  [Liubomir Chiriac](https://web.pdx.edu/~chiriac/) (Portland State University) | [Arithmetic aspects of Hecke traces](#oct9) |
+| October 2     | [Qiao He](https://www.math.columbia.edu/~qiaohe/) (Columbia University) | [Intersection of Hecke correspondences and a general conjecture](#oct2)   |       |
+| October 9     |  [Liubomir Chiriac](https://web.pdx.edu/~chiriac/) (Portland State University) | [Arithmetic aspects of Hecke traces](#oct9) |
 | October 16    | [Aaron Landesman](https://people.math.harvard.edu/~landesman/) (Harvard) | [Malle's conjecture over function fields](#oct16) |
-| October 31    | [Katharine (Katy) Woo]([https://web.math.princeton.edu/~khwoo/] (Stanford University) | TBD |
-| November 7    | [Chengyang Bao](https://math.uchicago.edu/~c.y.bao/) (UCLA) | [Computing crystalline deformation rings via the Taylor-Wiles-Kisin patching method](#nov7) |
-| November 14   | [Lea Beneish](https://sites.google.com/view/lea-beneish/home) (UNT) | [Degree $d$ points on curves](#nov14) |
-| November 19   | [Shubhodip Mondal](https://personal.math.ubc.ca/~smondal/)  (UBC) | [Dieudonné theory via cohomology of classifying stacks](#nov19) |
-| December 5    | [Peter Xu](https://www.math.ucla.edu/people/visiting/peterx)  (UCLA) | Cancelled |
+| October 31    | [Katharine (Katy) Woo](https://web.math.princeton.edu/~khwoo/) (Stanford University) | TBD |
+| November 6    | [Robert Cass](https://www.cmc.edu/academic/faculty/profile/robert-cass) (Claremont McKenna College) | |
+| November 13   | [Kimball Martin](https://math.uchicago.edu/~c.y.bao/) (University of Oklahoma and Osaka Metropolitan University.) | TBD |
+| November 20   | [Vacant]()  () | TBD |
+| December 4    | [Claus Sorensen](https://sites.google.com/view/csorensen)  (UCSD) | TBD |
+| December 11    |[Alex Blumenthal]((https://ablumenthal6.math.gatech.edu)) (Georgia Tech) | TBD |
 
 | ...           | ... | ... |
 
@@ -57,28 +58,24 @@ verifying the Poonen-Rains conjectures about average sizes of Selmer groups of
 elliptic curves in quadratic twist families.
 
 <a name="nov7"></a>
-### _November 23, Katharine (Katy) Woo_
+### _October 23, Katharine (Katy) Woo_
 **TBD**
 
 
 <a name="nov14"></a>
-### _November 14, Lea Beneish_
-**Degree $d$ points on curves**
+### _November 13, Kimball Martin_
+**TBD**
 
-Given a plane curve $C$ defined over $\mathbb{Q}$, when the genus of the curve is greater than one, Faltings' theorem tells us that the set of rational points on the curve is finite. It is then natural to consider higher degree points, that is, points on this curve defined over fields of degree $d$ over $\mathbb{Q}$. We ask for which natural numbers $d$ are there points on the curve in a field of degree $d$. For positive proportions of certain families of curves, we give results about which degrees of points do not occur. This talk is based on joint work with Andrew Granville.
 
 
 <a name="nov19"></a>
-### _November 19, Shubhodip Mondal_
-**Dieudonné theory via cohomology of classifying stacks**
+### _November 20, Vacant_
+**TBD**
 
-Classically, Dieudonné theory offers a linear algebraic classification of finite group schemes and p-divisible groups over a perfect field of characteristic p>0. In this talk, I will discuss generalizations of this story from the perspective of p-adic cohomology theory (such as crystalline cohomology, and the newly developed prismatic cohomology due to Bhatt--Scholze) of classifying stacks. Time permitting, I will discuss some applications.
 
 <a name="may22"></a>
-### _January 9, Chris Lyons_
-**Diophantine problems arising from tetrahedra**
-
-From the humble right triangle stem two rich, classical Diophantine problems: Pythagorean triples and the Congruent Number Problem. Both of these involve the study of rational points on algebraic curves. I'll discuss a higher-dimensional version of these problems leading to certain algebraic surfaces and their rational points. This is joint work with Dinakar Ramakrishnan.
+### _December 4, _
+**TBD**
 
 
 ---
