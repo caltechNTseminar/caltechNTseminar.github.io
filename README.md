@@ -16,9 +16,9 @@ Nov 13 Kimball
 | Date          | Speaker           | Topic |
 | ----          | -------           | ----- |
 | October 2     | [Qiao He](https://www.math.columbia.edu/~qiaohe/) (Columbia University) | [Intersection of Hecke correspondences and a general conjecture](#oct2)   |       |
-| October 9     |  [Liubomir Chiriac](https://web.pdx.edu/~chiriac/) (Portland State University) | [Arithmetic aspects of Hecke traces](#oct9) |
+| October 9     | [Liubomir Chiriac](https://web.pdx.edu/~chiriac/) (Portland State University) | [Arithmetic aspects of Hecke traces](#oct9) |
 | October 16    | [Aaron Landesman](https://people.math.harvard.edu/~landesman/) (Harvard) | [Malle's conjecture over function fields](#oct16) |
-| October 31    | [Katharine (Katy) Woo](https://web.math.princeton.edu/~khwoo/) (Stanford University) | TBD |
+| October 23    | [Katharine (Katy) Woo](https://web.math.princeton.edu/~khwoo/) (Stanford University) | TBD |
 | November 6    | [Robert Cass](https://www.cmc.edu/academic/faculty/profile/robert-cass) (Claremont McKenna College) | |
 | November 13   | [Kimball Martin](https://math.uchicago.edu/~c.y.bao/) (University of Oklahoma and Osaka Metropolitan University.) | TBD |
 | November 20   | [Vacant]()  () | TBD |
