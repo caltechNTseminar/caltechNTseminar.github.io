@@ -18,7 +18,7 @@ Nov 13 Kimball
 | October 2     | [Qiao He](https://www.math.columbia.edu/~qiaohe/) (Columbia University) | [Intersection of Hecke correspondences and a general conjecture](#oct2)   |       |
 | October 9     | [Liubomir Chiriac](https://web.pdx.edu/~chiriac/) (Portland State University) | [Arithmetic aspects of Hecke traces](#oct9) |
 | October 16    | [Aaron Landesman](https://people.math.harvard.edu/~landesman/) (Harvard) | [Malle's conjecture over function fields](#oct16) |
-| October 23    | [Katharine (Katy) Woo](https://web.math.princeton.edu/~khwoo/) (Stanford University) | TBD |
+| October 23    | [Katharine (Katy) Woo](https://web.math.princeton.edu/~khwoo/) (Stanford University) |[Manin's conjecture for Châtelet surfaces](#oct23)|
 | November 6    | [Robert Cass](https://www.cmc.edu/academic/faculty/profile/robert-cass) (Claremont McKenna College) | |
 | November 13   | [Kimball Martin](https://math.uchicago.edu/~c.y.bao/) (University of Oklahoma and Osaka Metropolitan University.) | TBD |
 | November 20   | [Vacant]()  () | TBD |
@@ -59,8 +59,9 @@ elliptic curves in quadratic twist families.
 
 <a name="nov7"></a>
 ### _October 23, Katharine (Katy) Woo_
-**TBD**
+**Manin's conjecture for Châtelet surfaces**
 
+We resolve Manin's conjecture for all Châtelet surfaces over Q (surfaces given by equations of the form x^2 + ay^2 = f(z)) -- we establish asymptotics for the number of rational points of increasing height. The key analytic ingredient is estimating sums of Fourier coefficients of modular forms along polynomial values.
 
 <a name="nov14"></a>
 ### _November 13, Kimball Martin_
