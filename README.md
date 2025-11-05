@@ -19,8 +19,8 @@ Nov 13 Kimball
 | October 9     | [Liubomir Chiriac](https://web.pdx.edu/~chiriac/) (Portland State University) | [Arithmetic aspects of Hecke traces](#oct9) |
 | October 16    | [Aaron Landesman](https://people.math.harvard.edu/~landesman/) (Harvard) | [Malle's conjecture over function fields](#oct16) |
 | October 23    | [Katharine (Katy) Woo](https://web.math.princeton.edu/~khwoo/) (Stanford University) |[Manin's conjecture for Châtelet surfaces](#oct23)|
-| November 6    | [Robert Cass](https://www.cmc.edu/academic/faculty/profile/robert-cass) (Claremont McKenna College) | |
-| November 13   | [Kimball Martin](https://math.uchicago.edu/~c.y.bao/) (University of Oklahoma and Osaka Metropolitan University.) | TBD |
+| November 6    | [Robert Cass](https://www.cmc.edu/academic/faculty/profile/robert-cass) (Claremont McKenna College) |[Affine Schubert varieties are splinters](#nov6) |
+| November 13   | [Kimball Martin](https://kimballmartin.github.io) (University of Oklahoma and Osaka Metropolitan University.) | [Local and global biases of modular forms](#nov14)|
 | November 20   | [Vacant]()  () | TBD |
 | December 4    | [Claus Sorensen](https://sites.google.com/view/csorensen)  (UCSD) | TBD |
 | December 11    |[Alex Dunn](https://alexjdunn.weebly.com) (Georgia Tech) | TBD |
@@ -63,11 +63,19 @@ elliptic curves in quadratic twist families.
 
 We resolve Manin's conjecture for all Châtelet surfaces over Q (surfaces given by equations of the form x^2 + ay^2 = f(z)) -- we establish asymptotics for the number of rational points of increasing height. The key analytic ingredient is estimating sums of Fourier coefficients of modular forms along polynomial values.
 
+<a name="nov6"></a>
+### _November 6, Kimball Martin_
+**Affine Schubert varieties are splinters**
+
+Schubert varieties are known to be Frobenius split in positive characteristic by the work of Mehta and Ramanathan. More recently, Bhatt showed that the full flag variety for GL_n is a splinter by entirely different methods. In this talk, we explain these concepts and show how to generalize Bhatt's result to all Schubert varieties for all reductive groups. Our methods apply equally well to affine Schubert varieties, which are of interest in the Langlands program and whose singularities are related to those of Shimura varieties. This is joint work with João Lourenço.
+ 
+
+
 <a name="nov14"></a>
 ### _November 13, Kimball Martin_
-**TBD**
+**Local and global biases of modular forms**
 
-
+Several years ago, I observed that root numbers of modular (new)forms are biased toward +1.  First I will discuss this and analogous local biases for the ramified components of modular forms.  Part of this is joint work with Andrew Knightly.  Then I will discuss how local and global root numbers are correlated with Fourier coefficients at unramified primes, which is a phenomenon now known as murmurations. 
 
 <a name="nov19"></a>
 ### _November 20, Vacant_
